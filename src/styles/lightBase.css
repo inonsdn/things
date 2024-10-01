@@ -1,0 +1,57 @@
+.primary-color {
+    color: #6366f1;
+}
+
+.secondary-color {
+    color: #818cf8;
+}
+
+.success-bg {
+    background-color: #22c55e
+}
+
+.warning-bg {
+    background-color: #f97316
+}
+
+.error-bg {
+    background-color: #ef4444
+}
+
+.success {
+    color: #22c55e
+}
+
+.warning {
+    color: #f97316
+}
+
+.error {
+    color: #ef4444
+}
+
+.bg {
+    background-color: #ebe4f2;
+}
+
+.bg-level1 {
+    background-color: #bec9e7;
+}
+
+.bg-item {
+    background-color: #6373b7;
+}
+
+.light-text {
+    color: #ebe4f2;
+}
+
+.dark-text {
+    color: #002851;
+}
+
+
+/* TEXT COLOR */
+.header {
+    color: #002851;
+}

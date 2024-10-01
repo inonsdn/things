@@ -1,0 +1,53 @@
+.view-label {
+
+}
+
+.things-view {
+    display: flex;
+    flex-direction: column;
+    /* width: 800px; */
+    /* width: calc(100% - 300px); */
+    /* align-items: center; */
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 50px;
+    /* min-height: 100vh; */
+    /* flex: 1 1 auto; */
+}
+
+.control-panel {
+    display: flex;
+    height: 4em;
+    width: 100%;
+    margin-left: 30px;
+    margin-top: 30px;
+    justify-content: center;
+
+    input {
+        height: 2em;
+        width: 70%;
+        box-shadow: 0 2px 5px #000;
+    }
+
+    /* height: 10%; */
+    /* width: 100%; */
+    /* justify-content: center; */
+}
+
+.add-icon {
+    margin-left: 10px;
+    transition: 0.3s
+}
+
+.search-icon {
+    margin-left: 10px;
+    transition: 0.3s
+}
+
+.add-icon:active {
+    scale: 1.1;
+}
+.search-icon:active {
+    scale: 1.1;
+}
